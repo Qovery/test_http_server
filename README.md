@@ -1,26 +1,4 @@
 # test_http_server
-dfdfdfdf
-dfjdjd
-qsdqsdqsdqfjfjfbfnffjfsdqsdqsdqsd
-qsdqsdqsd
-qsdqsdqsdqsdwxcwc
-sdfsdfsdfsdxjfjfjx
-qsdqsdcvffvf
-sdfsdfsdf
-qsdqsdqsdqsdqsdqsdqsd
-qsdqsdqds
-qsdqsdqsdffcdfcfdf
-qsdqsdqsd
-sdfsdfsdfsdfssdfsdfsdfsdfsdqsdqqsdqsdqsdqsdqsd
-sqqsdqsdqsdqsdqsdqsdqsdqdsqdsqdsqdsqqsdsqdsqsdqsdqsdqsdqsdqsd
-qsdqsdqsdqsdqsdqsd
-wxcwcwcwxcwxcqsdqsdqsdqsd
-sdfsdfsdfsdfsdfsdfwxcwxcwxcwcjhjhjh
-sdsdfsfsdfsdfsdfsdfsdqsdqsdqsdqsdfsdfss
-qsdqsdqsdqsdqsdqdqsdqzerzerzerzerzersdqsdsdfsdfsdfsdf
-sdfsdfsdfsdfsdfsdfsdf
-qsdqsdqsdqsdqsdqsdqsdqsdqsdqsdfccvgfcv
-kjkjkj
-xcxcxcjjj
-qsdqsdqsdqsd
-qsdqsdqsdqsdqsdqsdqsdqsdqsdsdfsdfsdfsdfsdfsdf
+
+This repository is used for testing, among other things for testing the Terraform provider. i
+An application within the "Terraform Provider Tests" environment of the "Q Sandbox" organization

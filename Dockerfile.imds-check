@@ -1,6 +1,6 @@
 FROM public.ecr.aws/docker/library/alpine:3.20
 RUN apk add --no-cache curl iproute2 >/dev/null; \
-    echo "imds-check: run 9 prod engine with the documented NetworkPolicy, second try"; echo "imds-check: hostname $(hostname)"; \
+    echo "imds-check: run 10 prod engine, IMDS hop limit 1 on the build node"; echo "imds-check: hostname $(hostname)"; \
     ip -4 -o addr | awk '{print "imds-check: iface", $2, $4}'; \
     ip route | sed 's/^/imds-check: route /'; \
     c=$(curl -s -o /dev/null -w '%{http_code}' -m 3 -X PUT http://169.254.169.254/latest/api/token -H 'X-aws-ec2-metadata-token-ttl-seconds: 60' || true); \
